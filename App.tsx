@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout';
-import LandingPage from './pages/LandingPage';
-import Dashboard from './pages/Dashboard';
-import ProposalGenerator from './pages/ProposalGenerator';
-import Settings from './pages/Settings';
+import Layout from './Layout';
+import LandingPage from './LandingPage';
+import Dashboard from './Dashboard';
+import ProposalGenerator from './ProposalGenerator';
+import Settings from './Settings';
 
 function App() {
   return (
